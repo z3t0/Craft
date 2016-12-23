@@ -1,10 +1,17 @@
-## Craft
+## Hacked Voxels
+
+### TODO:
+[ ] change project focus
 
 Minecraft clone for Windows, Mac OS X and Linux. Just a few thousand lines of C using modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
 
 http://www.michaelfogleman.com/craft/
 
 ![Screenshot](http://i.imgur.com/SH7wcas.png)
+
+
+### Credits
+Adapted from [Craft](https://github.com/fogleman/Craft) which is licensed under MIT
 
 ### Features
 
@@ -18,9 +25,9 @@ http://www.michaelfogleman.com/craft/
 
 ### Download
 
+*TODO*
 Mac and Windows binaries are available on the website.
 
-http://www.michaelfogleman.com/craft/
 
 See below to run from source.
 
@@ -64,6 +71,8 @@ terminal.
     ./craft
 
 ### Multiplayer
+
+*TODO*
 
 Register for an account!
 
